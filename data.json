@@ -1,4 +1,7 @@
-"ghana": {
+
+
+{
+   "ghana": {
   "threats": [45, 30, 60, 25] // Logging, Mining, Agriculture, Fire
 },
 "liberia": {
@@ -7,8 +10,7 @@
 "cotedivoire": {
   "threats": [60, 55, 50, 72]
 }
-
-{
+  
   "years": [2018, 2019, 2020, 2021, 2022, 2023],
   "countries": {
     "ghana": {
